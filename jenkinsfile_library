@@ -1,4 +1,4 @@
-@Library('Marta_shared-library')_
+@Library('my_shared-library')_
 
 pipeline {
     agent any
